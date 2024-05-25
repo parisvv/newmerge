@@ -1,7 +1,6 @@
 one
 
-<<<<<<< HEAD
 two
-=======
+
 three
->>>>>>> developer
+
